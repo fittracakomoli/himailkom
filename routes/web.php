@@ -15,6 +15,14 @@ Route::get('/structure', function () {
     return view('structure');
 });
 
+Route::get('/program', function () {
+    return view('program');
+});
+
+Route::get('/news', function () {
+    return view('news');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

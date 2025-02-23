@@ -31,6 +31,12 @@ export default {
                 secondary: {
                     900: "#fed43e",
                 },
+                instagram: {
+                    900: "#e1306c",
+                },
+                linkedin: {
+                    900: "#0077b5",
+                },
             },
             fontFamily: {
                 poppins: ["Poppins", "serif"],

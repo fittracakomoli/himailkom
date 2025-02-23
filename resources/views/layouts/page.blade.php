@@ -14,7 +14,7 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="font-poppins antialiased">
+    <body class="font-poppins h-[3000px] antialiased">
         {{ $slot }}
     </body>
 </html>
