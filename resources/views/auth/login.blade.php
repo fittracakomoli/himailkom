@@ -1,5 +1,3 @@
-
-
 <x-guest-layout>
 
     <!-- Session Status -->
