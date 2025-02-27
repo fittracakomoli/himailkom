@@ -27,9 +27,21 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
+Route::get('/admin/dashboard', function () {
+    return view('admin.dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
+
+Route::get('/admin/organization', function () {
+    return view('admin.organization');
+})->middleware(['auth', 'verified'])->name('organization');
+
+Route::get('/admin/members', function () {
+    return view('admin.members');
+})->middleware(['auth', 'verified'])->name('members');
+
+Route::get('/admin/programlist', function () {
+    return view('admin.programlist');
+})->middleware(['auth', 'verified'])->name('programlist');
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
