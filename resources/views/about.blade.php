@@ -25,29 +25,10 @@
             <div class="mx-auto max-w-screen-lg">
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Visi</h2>
                 <p class="mb-8 font-light sm:text-xl text-gray-400">Mewujudkan Himpunan Mahasiswa Ilmu Komputer UNNES sebagai ruang kolaborasi aktif yang mendukung pengembangan potensi dan prestasi mahasiswa melalui sinergi, inovasi, dan semangat kebersamaan</p>
-                <h2 class="mb-8 text-4xl tracking-tight font-extrabold text-white">Misi</h2>
             </div> 
-            <div class="grid mb-8 lg:mb-12 lg:grid-cols-2">
-                <figure class="flex flex-col justify-center items-center p-8 text-center border-b md:p-12 lg:border-r bg-gray-800 border-gray-700">
-                    <blockquote class="mx-auto mb-8 max-w-2xl text-gray-400">
-                        <p class="my-4 text-lg">Mengoptimalkan kolaborasi lintas divisi dalam himpunan mahasiswa maupun lintas underbow himpunan mahasiswa untuk mendukung kegiatan yang berdampak positif bagi mahasiswa</p>
-                    </blockquote>   
-                </figure>
-                <figure class="flex flex-col justify-center items-center p-8 text-center border-b md:p-12 bg-gray-800 border-gray-700">
-                    <blockquote class="mx-auto mb-8 max-w-2xl text-gray-400">
-                        <p class="my-4 text-lg">Mengutamakan komunikasi terbuka dan transparan untuk menjaga kepercayaan serta kebersamaan di Keluarga Mahasiswa Ilmu Komputer UNNES</p>
-                    </blockquote>   
-                </figure>
-                <figure class="flex flex-col justify-center items-center p-8 text-center border-b lg:border-b-0 md:p-12 lg:border-r bg-gray-800 border-gray-700">
-                    <blockquote class="mx-auto mb-8 max-w-2xl text-gray-400">
-                        <p class="my-4 text-lg">Mendorong kerjasama aktif dengan pihak eksternal untuk memperluas jaringan dan peluang bagi mahasiswa</p>
-                    </blockquote>    
-                </figure>
-                <figure class="flex flex-col justify-center items-center p-8 text-center md:p-12 bg-gray-800 border-gray-700">
-                    <blockquote class="mx-auto mb-8 max-w-2xl text-gray-400">
-                        <p class="my-4">Menciptakan lingkungan yang inklusif dan mendukung, di mana seluruh mahasiswa dapat berkontribusi aktif dalam Keluarga Mahasiswa Ilmu Komputer UNNES</p>
-                    </blockquote>
-                </figure>
+            <div class="mx-auto max-w-screen-lg">
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-white">Misi</h2>
+                <p class="mb-8 font-light sm:text-xl text-gray-400">Mewujudkan Himpunan Mahasiswa Ilmu Komputer UNNES sebagai ruang kolaborasi aktif yang mendukung pengembangan potensi dan prestasi mahasiswa melalui sinergi, inovasi, dan semangat kebersamaan</p>
             </div>
         </div>
     </section>
